@@ -1,8 +1,8 @@
-Tower of Hanoi (HTML, CSS, JavaScript)
-
+**Tower of Hanoi (HTML, CSS, JavaScript)**
 
 This repository contains a web-based implementation of the classic Tower of Hanoi puzzle using HTML, CSS, and JavaScript.  This interactive version allows users to play the game in their browser.
- Overview
+
+ **Overview**
  
 The Tower of Hanoi is a mathematical puzzle where we have three rods (A, B, and C) and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks stacked in decreasing size on the first rod (A), the smallest disk being at the top, thus forming a conical shape.
 
